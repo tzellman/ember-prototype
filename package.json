@@ -1,17 +1,25 @@
 {
   "name": "ember-prototype",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "An Ember addon that allows you to quickly bootup new projects or amend existing projects with pre-defined configurations, dependencies and files.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "prototype"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Tom Zellman <tzellman@gmail.com> (@tzellman)",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tzellman/ember-prototype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tzellman/ember-prototype/issues"
+  },
+  "homepage": "https://github.com/tzellman/ember-prototype#readme",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
