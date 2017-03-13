@@ -15,6 +15,7 @@ module.exports = {
                 {name: 'ember-cli-sass'},
                 {name: 'ember-composable-helpers'},
                 {name: 'ember-concurrency'},
+                {name: 'ember-local-storage'},
                 {name: 'ember-math-helpers'},
                 {name: 'ember-moment'},
                 {name: 'ember-truth-helpers'}
